@@ -19,8 +19,15 @@ const int MX = 2e5+123;
 const ll infLL = 9000000000000000000;
 const int MOD = 1e9+7;
 int32_t main(){
-       int t;
-       cin>>t;
-       while
+       cout << "Hello, Shahjalal!" << endl;
+
+    int a = 10;
+    int b = 25;
+
+    int sum = a + b;
+
+    cout << "The sum of " << a << " and " << b << " is " << sum << "." << endl;
+
+
 return 0;
 }
