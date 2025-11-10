@@ -28,6 +28,8 @@ int32_t main(){
 
     cout << "The sum of " << a << " and " << b << " is " << sum << "." << endl;
 
-
+    int age = 21;
+    string name = "Dip";
+    cout<<"My age "<<age<<" My name is "<<name;
 return 0;
 }
